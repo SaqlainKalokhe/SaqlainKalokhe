@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/SaqlainKalokhe" width="150" height="150">
+</p>
+
 <h1 align="center">👋 Hi, I'm Saqlain Kalokhe</h1>
-<p align="center">Passionate about Vision Transformer, Machine Learning, and Cloud </p>
+<p align="center">Passionate about Vision Transformer, Machine Learning, and Cloud</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saqlainkalokhe">
@@ -47,7 +51,3 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email">
   </a>
 </p>
-
-Let's code, innovate, and make the world a better place through technology! 🌍
-
-
