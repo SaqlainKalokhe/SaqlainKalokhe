@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Saqlain Kalokhe</h1>
 <p align="center">Passionate about Vision Transformer, Machine Learning, and Cloud </p>
 
@@ -11,15 +10,17 @@
   </a>
 </p>
 
+---
 
-🚀 I'm currently working on developing a Vision Transformer (ViT) to unlock the potential of computer vision. Excited about the possibilities this technology holds!
-
-🔬 **My Projects**:
+🚀 **Currently Developing**:
 - 🌟 **Vision Transformer (ViT):** Pioneering the development of a Vision Transformer to revolutionize image analysis.
 
-- 🩺 **Diabetes Prediction System:** Built a machine learning model to predict diabetes risk factors based on health parameters. [Check it out]([link-to-diabetes-prediction-repo](https://github.com/SaqlainKalokhe/Diabetes_Prediction)).
+🔬 **My Projects**:
+- 🩺 **Diabetes Prediction System:** Built a machine learning model to predict diabetes risk factors based on health parameters. [Check it out](https://github.com/SaqlainKalokhe/Diabetes_Prediction).
 
-- 🌐 **Django Incubation Website:** Crafted a dynamic website using Django, that resulted in a 33% increase in application submissions from aspiring entrepreneurs and fostering seamless connections with the potential investors.. [Explore it](l[ink-to-django-website-repo](https://github.com/SaqlainKalokhe/aikbi)).
+- 🌐 **Django Incubation Website:** Crafted a dynamic website using Django, resulting in a 33% increase in application submissions from aspiring entrepreneurs and fostering seamless connections with potential investors. [Explore it](https://github.com/SaqlainKalokhe/aikbi).
+
+---
 
 ⚙️ **Tech Stack**:
 - C 📜
@@ -34,7 +35,9 @@
 - Passionate about contributing to open source projects and collaborating with like-minded individuals.
 
 🤝 **Let's Connect**:
-- I'm open to collaboration and always eager to connect with fellow developers. Feel free to reach out, and let's innovate together!
+- I'm open to collaboration and always eager to connect with fellow developers. Feel free to reach out, and let's innovate together.
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saqlainkalokhe">
@@ -46,4 +49,5 @@
 </p>
 
 Let's code, innovate, and make the world a better place through technology! 🌍
+
 
