@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SaqlainKalokhe?label=Followers&style=social" alt="Followers">
-  <img src="https://img.shields.io/github/stars/SaqlainKalokhe?style=social" alt="Stars">
-</p>
 
 🚀 I'm currently working on developing a Vision Transformer (ViT) to unlock the potential of computer vision. Excited about the possibilities this technology holds!
 
