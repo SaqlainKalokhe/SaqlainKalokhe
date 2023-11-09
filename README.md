@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Saqlain Kalokhe</h1>
-<p align="center">Passionate about Vision Transformer, Machine Learning, and Cloud</p>
+<p align="center">Passionate about Artificial Intelligence, Machine Learning, and Cloud Computing</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saqlainkalokhe">
@@ -22,7 +22,7 @@
 🔬 **My Projects**:
 - 🩺 **Diabetes Prediction System:** Built a machine learning model to predict diabetes risk factors based on health parameters. [Check it out](https://github.com/SaqlainKalokhe/Diabetes_Prediction).
 
-- 🌐 **Django Incubation Website:** Crafted a dynamic website using Django, resulting in a 33% increase in application submissions from aspiring entrepreneurs and fostering seamless connections with potential investors. [Explore it](https://github.com/SaqlainKalokhe/aikbi).
+- 🌐 **Django Based Incubation Website:** Crafted a dynamic website using Django, resulting in a 33% increase in application submissions from aspiring entrepreneurs and fostering seamless connections with potential investors. [Explore it](https://github.com/SaqlainKalokhe/aikbi).
 
 ---
 
@@ -43,11 +43,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saqlainkalokhe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:saqlainkalokhe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email">
-  </a>
-</p>
