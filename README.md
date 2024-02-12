@@ -29,7 +29,7 @@
 ⚙️ **Tech Stack**:
 - C 📜
 - Python 🐍
-- PyTorch 🔥
+- Tensorflow🔥
 - Scikit-learn 📚
 - HTML/CSS 🎨
 - ... and more!
